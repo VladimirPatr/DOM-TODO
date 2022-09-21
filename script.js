@@ -1,9 +1,9 @@
 
-import modulesConst from '/modules/constants.js';
-import modulesCreate from '/modules/createElement.js';
-import modulesStorage from '/modules/localStorage.js';
-import modulesRender from '/modules/render.js';
-import modulesEvents from '/modules/events.js';
+import modulesConst from './modules/constants.js';
+import modulesCreate from './modules/createElement.js';
+import modulesStorage from './modules/localStorage.js';
+import modulesRender from './modules/render.js';
+import modulesEvents from './modules/events.js';
 
 const {
 	bodyTag,      
